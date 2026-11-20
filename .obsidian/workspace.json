@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "cff524487af8a531",
+        "id": "6b8d470d855f6fa5",
         "type": "tabs",
         "children": [
           {
-            "id": "90c791ad632dd37a",
+            "id": "3936f04b667f639e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "01 Foundations of Robot Motion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "01 Foundations of Robot Motion"
             }
           }
         ]
@@ -188,8 +188,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "90c791ad632dd37a",
+  "active": "3936f04b667f639e",
   "lastOpenFiles": [
-    "Welcome.md"
+    "img/c_space_representation_summary.png",
+    "img",
+    "img/Configuration Space Representation Summary.png",
+    "img/right_hand_thumb_rule.png",
+    "img/right_hand_thumb_axes.png",
+    "Pasted image 20261121014245.png",
+    "01 Foundations of Robot Motion.md",
+    "00_Index.md",
+    "02 Robot Kinematics.md",
+    "06 Capstone Project, Mobile Manipulation.md",
+    "05 Robot Manipulation and Wheeled Mobile Robots.md",
+    "04 Robot Motion Planning.md",
+    "03 Robot Dynamics.md"
   ]
 }
